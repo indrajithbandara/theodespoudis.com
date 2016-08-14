@@ -1,0 +1,17 @@
+{
+  "name": "theodespoudis",
+  "version": "1.0.0",
+  "description": "This is my CV site",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "CV",
+    "firebase"
+  ],
+  "author": "Theo Despoudis thdespou@hotmail.com",
+  "license": "ISC"
+}
