@@ -1,0 +1,13 @@
+/* ======= Base ======= */
+body {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ======= Header ======= */
+.header {
+  padding: 30px 0;
+  background: #f5f5f5;
+  border-top: 10px solid #778492;
+}
